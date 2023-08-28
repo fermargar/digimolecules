@@ -1,2 +1,2 @@
 # digimolecules
-personal website
+personal website about my projects
